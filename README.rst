@@ -1,3 +1,6 @@
+java -jar dist/emporia-downloader.1.0-SNAPSHOT.jar --config config.properties --disable-influx -d
+
+
 ===========================
 Emporiá Vue Data Downloader
 ===========================
